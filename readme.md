@@ -20,3 +20,8 @@ Please try changing LED color and sample chosen to log, to see valid debug outpu
 All the parameters like POLL_INTERVAL, NUM_SAMPLES and more operational parameters are configureable from their
 
 respective header files and declarations.
+
+
+Review Points:
+
+To be received
